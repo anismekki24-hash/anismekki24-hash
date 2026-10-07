@@ -6,7 +6,7 @@ I know how to work with JAVA, HTML, CSS, JAVASCIPT, SQL, PHP.
 
 Currently looking for a summer internship to expand my experience and knowledge.
 
-I've got a project that I developed using JAVA (<a href ="https://github.com/anismekki24-hash/shop-reservation-system"> </a> Shop Reservation System).
+I've got a project that I developed using JAVA (<a href ="https://github.com/anismekki24-hash/shop-reservation-system"> Shop Reservation System </a>).
 
 
 <!--
