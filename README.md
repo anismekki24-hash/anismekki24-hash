@@ -1,7 +1,15 @@
 ## Hi there 👋
 
+I'm Anis, a second year CS Student based in Manchester.
+
+I know how to work with JAVA, HTML, CSS, JAVASCIPT, SQL, PHP. 
+
+Currently looking for a summer internship to expand my experience and knowledge.
+
+I've got a project that I developed using JAVA (<a href ="shop-reservation-system"> </a> Shop Reservation System).
+
+
 <!--
-**anismekki24-hash/anismekki24-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
